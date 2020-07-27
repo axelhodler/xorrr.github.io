@@ -7,6 +7,8 @@ mark_failed() {
 
 # is available
 test `curl -I https://www.hodler.co | head -n 1 | cut -d ' ' -f2` -eq 200 || mark_failed
+echo "is available"
+
 # redirects to https
 REDIRECTED_TO=`curl -I hodler.co | head -n 4 | tail -n 1 | cut -d ' ' -f2`
 if [[ "$REDIRECTED_TO" =~ ^https://www.hodler.co.* ]]; then
