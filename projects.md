@@ -4,4 +4,4 @@ layout: page
 permalink: /projects/
 ---
 
-[Market Cap Game](https://marketcapgame.com) - iOS - Guess the marketcaps of various companies
+[MarketCap](https://marketcapgame.com) - iOS - Bite sized chunks of knowledge. Explore the world by learning about the stock market.
