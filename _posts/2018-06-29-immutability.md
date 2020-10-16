@@ -67,8 +67,6 @@ We verify it with [kotlinc](https://kotlinlang.org/docs/tutorials/command-line.h
 >>> val authorizedUsers = listOf("Alice", "Bob", "Charlie")
 >>> authorizedUsers
 [Alice, Bob, Charlie]
-val mp = list as MutableList<Int>
-mp[2] = 5 // changes both list and mp
 {% endhighlight %}
 
 Attempts along the lines of
