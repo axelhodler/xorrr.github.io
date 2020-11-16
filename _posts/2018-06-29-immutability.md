@@ -21,7 +21,7 @@ public boolean canUserAccessResource(String username) {
 }
 {% endhighlight %}
 A more verbose version can be found in the excellent course on [Programming Languages on Coursera](https://www.coursera.org/learn/programming-languages/lecture/aOQ26/optional-java-mutation)
- 
+
 What's the issue with the code above? Try to think about if for a few seconds.
 
 Our `allowedUsers` can be modified to allow access to users which were not specified as allowed by the original author.
@@ -137,3 +137,5 @@ Would someone starting out with Kotlin realize the difference between `read-only
 Seems how the simplest approach to getting the issues above out of the way is by using immutability by default.
 
 Code examples can be found on [GitHub](https://github.com/axelhodler/non-immutabbility-samples)
+
+Article has been cross-posted on [Medium](https://levelup.gitconnected.com/immutability-from-java-to-kotlin-to-haskell-eea641ca1db1)
