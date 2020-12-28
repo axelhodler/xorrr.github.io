@@ -45,7 +45,7 @@ Having had experiences with Angular, React and Ember working with Vue.js is stil
 
 Spring Boot, together with IntelliJ, is a great tool and can show iOS developers what could be possible with Xcode and might be in the future.
 
-Firestore is still great if all you want is a database which can offer offline functionality. Working with AWS Fargate is a lot simpler than with plain EC2 if all you are doing is running an application via `java -jar app.jar` or doing the same within Docker. Combined with CDK you can get a zero downtime construct by using [ApplicationLoadBalancedFargateService](https://docs.aws.amazon.com/cdk/api/latest/docs/@aws-cdk_aws-ecs-patterns.ApplicationLoadBalancedFargateService.html)
+Firestore is still great if all you want is a database which can offer offline functionality. Working with AWS Fargate is a lot simpler than with plain EC2 if all you are doing is running an application via `java -jar app.jar` or doing the same within Docker. Combined with CDK you can get a zero downtime construct by using [ApplicationLoadBalancedFargateService](https://docs.aws.amazon.com/cdk/api/latest/docs/@aws-cdk_aws-ecs-patterns.ApplicationLoadBalancedFargateService.html).
 
-I don't have issues with any of these techologies. Pick what is already there or what the team is most comfortable and happy working with. In the end it is all about increasing revenue or decreasing costs for your employer or your company.
+I enjoyed working with any of these technologies. Pick what is already there or what the team is most comfortable and happy working with. In the end it is all about increasing revenue or decreasing costs for your employer or your company.
 
