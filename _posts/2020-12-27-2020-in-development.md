@@ -24,7 +24,16 @@ For side projects I was using SwiftUI and Vue.js on the client and vercel.com, w
 * mongoDB
 * Jekyll
 
+## Used in 2019 but not in 2020
+
+* React
+* AWS Lambda & S3
+* CloudFoundry
+* Shopify
+* New Relic
+
 ## Added to toolbox
+
 * Cypress
 * Automated Testing in iOS
 * AWS: CDK, Fargate, ECR, SES, SQS, SNS, DocumentDB
