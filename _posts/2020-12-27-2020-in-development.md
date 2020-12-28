@@ -31,6 +31,8 @@ For side projects I was using SwiftUI and Vue.js on the client and vercel.com, w
 * CloudFoundry
 * Shopify
 * New Relic
+* Bitbucket Pipelines
+* CircleCI
 
 ## Added to toolbox
 
