@@ -1,8 +1,6 @@
 My page at
 [hodler.co](http://hodler.co)
 
-No impressum because its a private page.
-
 ## Setup macOS
 
     brew install rbenv tidy-html5 aspell
