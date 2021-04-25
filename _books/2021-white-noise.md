@@ -4,6 +4,8 @@ year: 2021
 title: "White Noise - Don DeLillo"
 ---
 
+Postmodernist novel about death, absurd conversations and a dysfunctional family.
+
 > "Because she thinks if she keeps buying it, she'll have to eat it just to get rid of it. It's like she's trying to trick herself."
 
 > "I understand the music, I understand the movies, I even see how comic books can tell us things. But there are full professors in this place who read nothing but cereal boxes"
@@ -12,7 +14,12 @@ title: "White Noise - Don DeLillo"
 
 > When I read obituaries I always note the age of the deceased. Automatically I relate this figure to my own age. Four years to go, I think. Nine more years. Two years and I'm dead.
 
-> She claim smy death would leave a bigger hole in her life than her death would leave in mine. This is the level of our discourse.
+> She claims my death would leave a bigger hole in her life than her death would leave in mine. This is the level of our discourse.
 
 > "We have heat, we have light.". "These are Stone Age things. They had heat and light. They had fire. They rubbed flints together and made sparks. Could you rub flints together? Would you know a flint if you saw one? If a Stoner Ager asked you what a nucleotide is, could you tell him?"
 
+> Their bumper sticker read GUN CONTROL IS MIND CONTROL. In situations like this, you want to stick close to people in right-wing fringe groups. They've practiced staying alive.
+
+> "How can people live their whole lives without knowing the names of their own parts of the body?"
+
+> Routine things can be deadly, Vern, carried to extremes. I have a friend who says that's why people take vacations. Not to relax or find excitement or see new places. To escape the death that exists in routine things.
