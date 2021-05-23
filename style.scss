@@ -30,7 +30,7 @@ html {
 }
 
 body {
-  color: #515151;
+  color: rgba(41, 41, 41, 1);
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -164,7 +164,6 @@ blockquote {
   font-style: italic;
   padding: 0 0 0 1.5rem;
   margin: 0 2rem 1rem 0;
-  color: #777;
   border-left: .5rem solid #e5e5e5;
   
   p:last-child {
