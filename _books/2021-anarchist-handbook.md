@@ -4,6 +4,20 @@ year: 2021
 title: "The Anarchist Handbook - Michael Malice"
 ---
 
+# Lysander Spooner
+
+> As taxation is made compulsory on all, whether they vote or not, a large proportion of those who vote, no doubt do so to prevent their own money being used against themselves; when, in fact, they would have gladly abstained from voting
+
+> The highwayman takes solely upon himself the responsibility, danger, and crime of his own act. He does not pretend that he has any rightful claim to your money, or that he intends to use it for your own benefit. He does not pretend to be anything but a robber.
+
+# Chapter 9 - Johann Most
+
+# Chapter 13 - Leo Tolstoy
+
+The author of _War and Peace_ and _Anna Karenina_ was a committed anarchist.
+
+> The destruction of government will, say they, produce the greatest misfortunes—riot, theft, and murder—till finally the worst men will again seize power and enslave all the good people. But not to mention the fact that all this—i.e. riots, thefts and murders, followed by the rule of the wicked and the enslavement of the good—all this is what has happened and is happening,
+
 # Chapter 19 - David Friedman
 
 Friedman goes through ways in which stateless societies defend themselves. Police and Military. The necessity for police would be greatly reduced by legalizing victimless crimes. Other disputes can be taken care by private security agencies. An alternative to the military would be an armed militia - People that do firearm training in their free time and pay for their own equipment already do exist. So do folks playing paintball in their free time.
