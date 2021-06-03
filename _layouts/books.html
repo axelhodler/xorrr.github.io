@@ -6,9 +6,9 @@ layout: default
 {% assign sorted = site.books | sort: 'year' | reverse %}
 {% for book in sorted %}
   <div class="list-item">
-    <h2 class="list-post-title">
+    <h5 class="list-post-title">
       <a href="{{ site.baseurl }}{{ book.url }}">{{ book.title }}</a>
-    </h2>
+    </h5>
     <div class="list-post-date">
     </div>
   </div>
