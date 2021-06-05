@@ -74,7 +74,6 @@ class OurQueueListener {
   fun readMessage(message: String) {
     logger.info(message)
   }
-
 }
 {% endhighlight %}
 
@@ -89,7 +88,6 @@ class ExternalQueueListener {
   fun readMessage(message: String) {
     logger.info(message)
   }
-
 }
 {% endhighlight %}
 
