@@ -4,27 +4,58 @@ year: 2021
 title: "The Anarchist Handbook - Michael Malice"
 ---
 
-# Lysander Spooner
+A collection of essays, speeches and blog posts by leading figures of the anarchist history. Both by anarchists rejecting private property and the ones that do not. Socialists and capitalists or left and right. What unites them is regarding the state as evil. Or at least as innefficient and disincentived in providing better services than the free market or at providing the service at all.
+
+## Lysander Spooner
 
 > As taxation is made compulsory on all, whether they vote or not, a large proportion of those who vote, no doubt do so to prevent their own money being used against themselves; when, in fact, they would have gladly abstained from voting
 
 > The highwayman takes solely upon himself the responsibility, danger, and crime of his own act. He does not pretend that he has any rightful claim to your money, or that he intends to use it for your own benefit. He does not pretend to be anything but a robber.
 
-# Chapter 9 - Johann Most
+## Johann Most
 
-# Chapter 13 - Leo Tolstoy
+## Louis Lingg
+
+> has become popularized as Lingg supposedly proclaiming, “I couldn’t have thrown that bomb. I was at home making bombs.”
+
+> "You have charged me with despising “law and order.” What does your “law and order” amount to? Its representatives are the police, and they have thieves in their ranks. Here sits Captain Schaack. He has himself admitted to me that my hat and books have been stolen from him in his office—stolen by policemen. These are your defenders of property rights!"
+
+> "I protest against the conviction, against the decision of the court. I do not recognize your law, jumbled together as it is by the nobodies of bygone centuries, and I do not recognize the decision of the court."
+
+> "I despise you. I despise your order, your laws, your force-propped authority. Hang me for it!"
+
+## Leo Tolstoy
 
 The author of _War and Peace_ and _Anna Karenina_ was a committed anarchist.
 
 > The destruction of government will, say they, produce the greatest misfortunes—riot, theft, and murder—till finally the worst men will again seize power and enslave all the good people. But not to mention the fact that all this—i.e. riots, thefts and murders, followed by the rule of the wicked and the enslavement of the good—all this is what has happened and is happening,
 
-# Chapter 19 - David Friedman
+## Emma Goldman
 
-Friedman goes through ways in which stateless societies defend themselves. Police and Military. The necessity for police would be greatly reduced by legalizing victimless crimes. Other disputes can be taken care by private security agencies. An alternative to the military would be an armed militia - People that do firearm training in their free time and pay for their own equipment already do exist. So do folks playing paintball in their free time.
+Essay with praise for the individual and harsh critiques for _the masses_.
 
-# Chapter 20 - Murray Rothbard
+> Lacking utterly in originality and moral courage, the majority has always placed its destiny in the hands of others. Incapable of standing responsibilities, it has followed its leaders even unto destruction.
 
-David Friedman focusses on implementation details. Rothbard on "the virulent reign of the State".
+> Politically the human race should still be in the most absolute slavery, were it not for the John Balls, the Wat Tylers, the Tells, the innumerable individual giants who fought inch by inch against the power of kings and tyrants.
+
+> The greatness and courage worshipped in Lincoln have been forgotten in the men who created the background for the panorama of that time.
+
+> Lincoln and his minions followed only when abolition had become a practical issue, recognized as such by all.
+
+> Yet how long would authority and private property exist, if not for the willingness of the mass to become soldiers, policemen, jailers, and hangmen.
+
+The quote above displays her socialist background. The anarcho-capitalist would not regard "private property" as something bad. One might replace it with "unjust laws".
+
+## Charles Robert Plunkett
+
+
+## David Friedman
+
+Friedman goes through ways in which stateless societies defend themselves. Police and Military. The necessity for police would be greatly reduced by legalizing victimless crimes. Other disputes can be taken care of by private security agencies. An alternative to the military would be an armed militia - People that do firearm training in their free time and pay for their own equipment already do exist. So do folks playing paintball in their free time.
+
+## Murray Rothbard
+
+David Friedman focusses on implementation details, the inefficiencies of the state. Rothbard on "the virulent reign of the State".
 
 > Therefore, the chief task of the rulers is always to secure the active or resigned acceptance of the majority of the citizens.
 
@@ -42,17 +73,17 @@ David Friedman focusses on implementation details. Rothbard on "the virulent rei
 
 > While social power is over nature, State power is power over man.
 
-# Chapter 21 - John Hasnas
+## John Hasnas
 
-While anarchy is often regarded as lawlessness, or "without rules", the word anarchy literally means "without ruler". Hasnas makes the argument why even having "objective" law does not exist in our current governments.
+While anarchy is often regarded as lawlessness, or "without rules", the word anarchy literally means "without rulers". Hasnas makes the argument why "objective" law does not exist in our current governments.
 
 > [...] is both an incoherent concept and a utopian fantasy impossible to put into practice.
 
-Law is inherently political and even the constitution can be interpreted as the current ruling class seems fit.
+Law is inherently political and the constitution can be interpreted as the current ruling class seems fit.
 
-# Chapter 22 - Michael Malice
+## Michael Malice
 
-On why he does not vote and does not intend to. After all:
+On why he does not vote and does not intend to. Because:
 
 > [...] governments will continue to act regardless of any sort of popular approval – and certainly regardless of any approval of mine. State action proceeds independently of any democratic justification.
 
