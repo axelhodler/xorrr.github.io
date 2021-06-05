@@ -48,6 +48,27 @@ The quote above displays her socialist background. The anarcho-capitalist would 
 
 ## Charles Robert Plunkett
 
+A short essay proposing political violence
+
+> When Free Speech is suppressed, when men are jailed for asking food, clubbed for assembling to discuss their grievances, and stoned for expressing their opinions, there is but one recourse—violence. The ruling class has guns, bullets, bayonets, police, jails, militia, armies and navies. To oppose all this the worker has only—dynamite.
+
+> Off with the mask! This is war. Violence can be met only with violence. “If they attack us with cannon, we will attack them with dynamite”—and, whenever possible, let us attack first. To oppression, to exploitation, to persecution, to police, jails, militia, armies and navies, there is but one answer—DYNAMITE!
+
+## Morris and Linda Tannehill
+
+Insurance companies, covering loss of value by aggression, as an alternative for the current police and prison system.
+
+> “An eye for an eye, a tooth for a tooth,” which means: “When you destroy a value of mine, I’ll destroy a value of yours.” Present day penology no longer makes such demands; instead of the eye or the tooth, it takes the criminal’s life (via execution), or a part of his life (via imprisonment), and/or his possessions (via fines).
+
+> Since a crime can only be committed against individuals, a criminal cannot be rationally regarded as “owing a debt to society,” nor can he “pay his debt to society:” the only debt he owes is to the injured individual(s).
+
+> First, the insurance company’s representatives would attempt a voluntary settlement with the accused aggressor. If he was obviously guilty and the amount of reparations requested was just, it would be in his interest to agree to this settlement and avoid involving an arbitration agency, since the cost of any arbitration would be added on to his bill if he lost in his attempt to cheat justice.
+
+> Any free-market business, including an arbitration agency, can survive and prosper only as customers choose to patronize it instead of its competitors. An arbitration agency must be chosen by both (or all) disputants in a case, which means that its record of settling previous disputes of a similar nature must be more satisfactory, to both complainant and defendant, than the records of its competitors. Any arbitration agency which consistently set reparations too high or too low in the opinion of the majority of its customers and potential customers would lose business rapidly. It would have to either adjust its payments to fit consumer demand ... or go out of business.
+
+> loss of reputation, would be even more damaging to the aggressor. Just as specialized companies would keep central files, listing poor contractual risks, they would also list aggressors so that anyone wishing to do business with a man could first check his record. Insurance companies in particular would make use of this service. So our bank robber would find insurance companies listing him as a very poor risk and other firms reluctant to enter into contracts with him.
+
+> The fear of a tyrant is a very real one, and, in the light of history, it is well justified. But, as can be seen from the foregoing examination, it applies to a governmentally run society rather than to a free society. The objection that a tyrant might take over is actually a devastating argument against government.
 
 ## David Friedman
 
