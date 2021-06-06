@@ -6,6 +6,37 @@ title: "The Anarchist Handbook - Michael Malice"
 
 A collection of essays, speeches and blog posts by leading figures of the anarchist history. Both by anarchists rejecting private property and the ones that do not. Socialists and capitalists or left and right. What unites them is regarding the state as evil. Or at least as innefficient and disincentived in providing better services than the free market or at providing the service at all.
 
+## William Godwin
+
+A critique of social contract theory
+
+> the social contract, considered as the foundation of civil government, requires of me more than this. I am not only obliged to consent to all the laws that are actually upon record, but to all the laws that shall hereafter be made.
+
+> the social contract, considered as the foundation of civil government, requires of me more than this. I am not only obliged to consent to all the laws that are actually upon record, but to all the laws that shall hereafter be made.
+
+## Max Stirner
+
+## Pierre-Joseph Proudhon
+
+Argues for mutualism, a socialist society where everyone worked voluntarily to the benefit of all
+
+> he who lays his hand on me to govern me is a usurper and tyrant; my declared enemy.
+
+> The socialists have fallen into the same error as the radicals; “St. Simon, Fourier, Owen, Cabet, Louis Blanc, are all for an organization of labor by means of the state, or by capital, or by some other form of authority! instead of teaching the people to organize themselves, and to appeal to their own reason and experience; they say “give us power.” They are Utopians, like the despots.
+
+> Governments are the scourges of God to discipline the world; for them to create liberty would be to destroy themselves.
+
+## Herbert Spencer
+
+On the right to ignore the state
+
+> provided he infringes not the equal freedom of any other man, then he is free to drop connection with the State,—to relinquish its protection and to refuse paying towards its support. It is self-evident that in so behaving he in no way trenches upon the liberty of others; for his position is a passive one, and, whilst passive, he cannot become an aggressor.
+
+> Suppose, again, that of two races living together—Celts and Saxons, for example—the most numerous determined to make the others their slaves. Would the authority of the greatest number be in such case valid?
+
+> Suppose, once more, that all men having incomes under £50 a year were to resolve upon reducing every income above that amount to their own standard, and appropriating the excess for public purposes. Could their resolution be justified?
+
+
 ## Lysander Spooner
 
 > As taxation is made compulsory on all, whether they vote or not, a large proportion of those who vote, no doubt do so to prevent their own money being used against themselves; when, in fact, they would have gladly abstained from voting
@@ -29,6 +60,18 @@ A collection of essays, speeches and blog posts by leading figures of the anarch
 The author of _War and Peace_ and _Anna Karenina_ was a committed anarchist.
 
 > The destruction of government will, say they, produce the greatest misfortunes—riot, theft, and murder—till finally the worst men will again seize power and enslave all the good people. But not to mention the fact that all this—i.e. riots, thefts and murders, followed by the rule of the wicked and the enslavement of the good—all this is what has happened and is happening,
+
+## Alexander Berkman
+
+On the prison system, written in 1906.
+
+> Social progress, however, tends to check and eliminate the practice of direct, personal revenge. In so-called civilized communities the individual does not, as a rule, personally avenge his wrongs. He has delegated his “rights” in that direction to the State, the government; and it is one of the “duties” of the latter to avenge the wrongs of its citizens by punishing the guilty parties. Thus we see that punishment, as a social institution, is but another form of revenge, with the State in the role of the sole legal avenger of the collective citizen—the same well-defined spirit of barbarism in disguise. The penal powers of the State rest, theoretically, on the principle that, in organized society, “an injury to one is the concern of all”; in the wronged citizen society as a whole is attacked.
+
+> There is not a single prison or reformatory in the United States where either flogging and clubbing, or the straight-jacket, solitary confinement, and “reduced” diet (semi-starvation) are not practiced upon the unfortunate inmates.
+
+How are inmates supposed to be reformed when people conducting victimless crime are put into the same cages as violent offenders, murderers and rapists? When they are violated by both the guards and fellow inmates?
+
+> The money annually expended for the maintenance of prisons could be invested, with as much profit and less injury, in government bonds of the planet Mars, or sunk in the Atlantic. No amount of punishment can obviate crime, so long as prevailing conditions, in and out of prison, drive men to it.
 
 ## Emma Goldman
 

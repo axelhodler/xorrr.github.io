@@ -62,6 +62,12 @@ Each service encompasses a particular domain -> Well suited for domain-driven de
 
 > made up of decoupled event processing components that asynchronously receive and process events
 
+> Overall simplicity and testability rate relatively low with event-driven architecture, mostly due to the nondeterministic and dynamic event flows typically found within this architecture style.
+
+# Chapter 15. Space based architecture style
+
+> space-based architecture style is specifically designed to address problems involving high scalability, elasticity, and high concurrency issues. It is also a useful architecture style for applications that have variable and unpredictable concurrent user volumes.
+
 # Chapter 17. Microservices Architecture
 
 Goal is decoupling. The services model their bounded context, meaning their specific domain or or workflow. Each service contains the necessary parts to operate independently, e.g. databases.
