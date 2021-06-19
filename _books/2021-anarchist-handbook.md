@@ -36,6 +36,31 @@ On the right to ignore the state
 
 > Suppose, once more, that all men having incomes under £50 a year were to resolve upon reducing every income above that amount to their own standard, and appropriating the excess for public purposes. Could their resolution be justified?
 
+## Mikhail Bakunin
+
+On communism without the state. Anarcho-communism.
+
+> [...] Marx. He loves government to such a degree that he even wanted to institute one in the International Workingmen’s Association; and he worships power so much that he wanted to impose and still means to-day to impose his dictatorship on us.
+
+> Forbidden fruit has such an attraction for men, and the demon of revolt, that eternal enemy of the State, awakens so easily in their hearts when they are not sufficiently stupified, that neither this education nor this instruction, nor even the censorship, sufficiently guarantee the tranquility of the State. It must still have a police, devoted agents who watch over and direct, secretly and unobtrusively, the current of the peoples’ opinions and passions.
+
+> being a slave is being forced to work for other people—as being a master is to live on the labor of other people.
+
+> A worker who does not find work or who is dissatisfied with the wages offered by the capitalist can always, if need be, emigrate to the far West to clear there some wild and unoccupied land.
+
+> In reality, it is minorities which govern. The so-called Democratic Party, up to the time of the Civil War to emancipate the slaves, were the out and out partizans of slavery and of the ferocious oligarchy of the planters, demagogues without faith or conscience, capable of sacrificing everything to their greed and evil-minded ambition, and who, by their detestable influence and actions, exercised almost unhindered, for nearly fifty years continuously, have greatly contributed to deprave the political morality of North America.
+
+> Nothing is more dangerous for man’s private morality than the habit of command.
+
+> It will be the reign of scientific intelligence, the most aristocratic, despotic, arrogant and contemptuous of all regimes. There will be a new class, a new hierarchy of real and pretended scientists and scholars, and the world will be divided into a minority ruling in the name of knowledge and an immense ignorant majority. And then, woe betide the mass of ignorant ones!
+
+> The great misfortune is that a large number of natural laws, already established as such by science, remain unknown to the masses, thanks to the watchfulness of those tutelary governments that exist, as we know, only for the good of the people.
+
+> So that were we to try to force the practical life of men, collective as well as individual, into strict and exclusive conformity with the latest data of science, we should condemn society as well as individuals to suffer martyrdom on a bed of Procrustes, which would soon end by dislocating and stifling them, life ever remaining an infinitely greater thing than science.
+
+> A scientific body to which had been confided the government of society would soon end by devoting itself no longer to science at all, but to quite another affair; and that affair, as in the case of all established powers, would be its own eternal perpetuation by rendering the society confided to its care ever more stupid and consequently more in need of its government and direction.
+
+> Does it follow that I reject all authority? Far from me such a thought. In the matter of boots, I refer to the authority of the bootmaker; concerning houses, canals, or railroads, I consult that of the architect or the engineer. For such or such special knowledge I apply to such or such a savant. But I allow neither the bootmaker nor the architect nor savant to impose his authority upon me. I listen to them freely and with all the respect merited by their intelligence, their character, their knowledge, reserving always my incontestable right of criticism and censure.
 
 ## Lysander Spooner
 
@@ -44,6 +69,8 @@ On the right to ignore the state
 > The highwayman takes solely upon himself the responsibility, danger, and crime of his own act. He does not pretend that he has any rightful claim to your money, or that he intends to use it for your own benefit. He does not pretend to be anything but a robber.
 
 ## Johann Most
+
+On the importance of knowing how to make dynamite for advancing one's political position.
 
 ## Louis Lingg
 
@@ -55,11 +82,49 @@ On the right to ignore the state
 
 > "I despise you. I despise your order, your laws, your force-propped authority. Hang me for it!"
 
+## Peter Kropotkin
+
+The anarcho-communist perspective. 
+
+> Every day millions of transactions are made without Government intervention, and the greatest of them—those of commerce and of the Exchange—are carried on in such a way that the Government could not be appealed to if one of the contracting parties had the intention of not fulfilling his agreement. Should you speak to a man who understands commerce he will tell you that the everyday business transacted by merchants would be absolutely impossible were it not based on mutual confidence. The habit of keeping his word, the desire not to lose his credit, amply suffice to maintain this relative honesty. The man who does not feel the slightest remorse when poisoning his customers with noxious drugs covered with pompous labels thinks he is in honour bound to keep his engagements.
+
+> “Such a man,” we are told, “buys tea in China, brings it to France, and realizes a profit of thirty per cent on his original outlay. He has exploited nobody.” Nevertheless the case is analogous. If our merchant had carried his bales on his back, well and good! In early medieval times that was exactly how foreign trade was conducted, and so no one reached such giddy heights of fortune as in our days.
+
+> Everywhere you will find that the wealth of the wealthy springs from the poverty of the poor.
+
 ## Leo Tolstoy
 
 The author of _War and Peace_ and _Anna Karenina_ was a committed anarchist.
 
 > The destruction of government will, say they, produce the greatest misfortunes—riot, theft, and murder—till finally the worst men will again seize power and enslave all the good people. But not to mention the fact that all this—i.e. riots, thefts and murders, followed by the rule of the wicked and the enslavement of the good—all this is what has happened and is happening,
+
+> the efforts of Governments to keep people in that childish condition in which an injured man feels as if it were better for him to have some one to complain to, people—especially the labouring people, both in Europe and in Russia—are more and more emerging from childhood and beginning to understand the true conditions of their life.
+
+> We are so depraved by long-continued slavery that we can hardly imagine administration without violence.
+
+> power is always seized by those who are less conscientious and less moral.
+
+On abolishing government
+
+> And the possibility of governmental violence, like every other violence perpetrated by a small number of people upon a larger number, has always depended, and still depends, simply on the fact that the small number are armed while the large number are unarmed, or that the small number are better armed than the large number.
+
+> Discipline is the suppression of reason and of freedom in man, and can have no other aim than preparation for the performance of crimes such as no man can commit while in a normal condition.
+
+> The robber doing his work risked his life, while the Governments risk nothing,
+
+> People must feel that their participation in the criminal activity of Governments, whether by giving part of their work in the form of money, or by direct participation in military service, is not, as is generally supposed, an indifferent action, but, besides being harmful to one’s self and to one’s brothers, is a participation in the crimes unceasingly committed by all Governments and a preparation for new crimes.
+
+### What should each man do?
+
+> in order not to do the evil which produces misery for himself and for his brothers, he should, first of all, neither willingly nor under compulsion take any part in Governmental activity, and should, therefore, be neither a soldier, nor a Field-Marshal, nor a Minister-of-State, nor a tax- collector, nor a witness, nor an alderman, nor a juryman, nor a governor, nor a Member of Parliament, nor, in fact, hold any office connected with violence.
+
+> should not voluntarily pay taxes to governments, either directly or indirectly; nor should he accept money collected by taxes, either as salary, or as pension, or as a reward; nor should he make use of governmental institutions, supported by taxes collected by violence from the people.
+
+> a man who desires not to promote his own well-being alone, but to better the position of people in general, should not appeal to Governmental violence for the protection of his own possessions in land or in other things, nor to defend him and his near ones; but should only possess land and all products of his own or other people’s toil, in so far as others do not claim them from him.
+
+> Not every man will have the strength to refuse conscription (though there are and will be such men), but each man can abstain from voluntarily entering the army, the police force, and the judicial or revenue service;
+
+> not every one can refuse to make use of Government schools (though there are some who do), but every one can give the preference to private schools, and each can make less and less use of articles that are taxed, and of Government institutions.
 
 ## Alexander Berkman
 
@@ -72,6 +137,20 @@ On the prison system, written in 1906.
 How are inmates supposed to be reformed when people conducting victimless crime are put into the same cages as violent offenders, murderers and rapists? When they are violated by both the guards and fellow inmates?
 
 > The money annually expended for the maintenance of prisons could be invested, with as much profit and less injury, in government bonds of the planet Mars, or sunk in the Atlantic. No amount of punishment can obviate crime, so long as prevailing conditions, in and out of prison, drive men to it.
+
+## Voltairine de Cleyre
+
+> They have no idea why it should have been called a “revolution” instead of the “English War,” or any similar title: it’s the name of it, that’s all. And name-worship, both in child and man, has acquired such mastery of them,
+
+> The spirit of the times may alter, will alter. Our rulers will become corrupt, our people careless.
+
+> Ask any child what he knows about Shays’ rebellion, and he will answer, "Oh, some of the farmers couldn’t pay their taxes, and Shays led a rebellion against the court-house at Worcester, so they could burn up the deeds; and when Washington heard of it he sent over an army quick and taught ’em a good lesson"
+
+> Ask if he knows what was said on the other side of the story, ask if he knows that the men who had given their goods and their health and their strength for the freeing of the country now found themselves cast into prison for debt, sick, disabled, and poor, facing a new tyranny for the old;
+
+> for the nature of government is to become a thing apart, an institution existing for its own sake, preying upon the people, and teaching whatever will tend to keep it secure in its seat.
+
+> nine hundred and ninety nine men out of a thousand are more interested in drinking a glass of beer than in questioning the tax that is laid on it;
 
 ## Emma Goldman
 

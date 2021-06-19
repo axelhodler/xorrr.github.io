@@ -68,7 +68,7 @@ Each service encompasses a particular domain -> Well suited for domain-driven de
 
 > space-based architecture style is specifically designed to address problems involving high scalability, elasticity, and high concurrency issues. It is also a useful architecture style for applications that have variable and unpredictable concurrent user volumes.
 
-# Chapter 17. Microservices Architecture
+## Microservices Architecture
 
 Goal is decoupling. The services model their bounded context, meaning their specific domain or or workflow. Each service contains the necessary parts to operate independently, e.g. databases.
 
@@ -76,13 +76,20 @@ Drawbacks are the distributed nature, which include network latency, resilience 
 
 API-Layer for service discovery and as an entry point for clients.
 
-# Chapter 19. Architecture Decisions
+## Choosing the Appropriate Architecture Style
 
-Helps to guide development teams in making the right technical choices.
+It depends, trade-offs and constant change (Kubernetes, Docker)
 
-## 
+## Architecture Decisions
 
-# Self Assessment Questions
+Helps to guide development teams in making the right technical choices. Gather enough information. Justify the decision. Document and communicate the decision.
+
+## Analyzing Architecture Risk
+
+> address deficiencies within the architecture and take corrective action to mitigate the risk
+
+Risk Matrix: Overall impact of Risk (Low, Medium, High), Likelihood of risk occuring (Low, Medium, High)
+## Self Assessment Questions
 
 ## Chapter 24
 
