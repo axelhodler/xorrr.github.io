@@ -16,6 +16,18 @@ A critique of social contract theory
 
 ## Max Stirner
 
+> When a blockhead makes me out in the right, I grow distrustful of my rightness; I don’t like to receive it from him. But, even when a wise man makes me out in the right, I nevertheless am not in the right on that account. Whether I am in the right is completely independent of the fool’s making out and of the wise man’s.
+
+> Communism, which assumes that men “have equal rights by nature,” contradicts its own proposition until it comes to this, that men have no right at all by nature.
+
+> “What you have the power to be you have the right to.” I derive all right and all warrant from me; I am entitled to everything that I have in my power. I am entitled to overthrow Zeus, Jehovah, God, if I can; if I cannot, then these gods will always remain in the right and in power as against me, and what I do will be to fear their right and their power in impotent “god-fearingness,”
+
+> The Communists affirm that “the earth belongs rightfully to him who tills it, and its products to those who bring them out.” I think it belongs to him who knows how to take it, or who does not let it be taken from him, does not let himself be deprived of it. If he appropriates it, then not only the earth, but the right to it too, belongs to him. This is egoistic right: it is right for me, therefore it is right.
+
+> If you let yourself be made out in the right by another, you must no less let yourself be made out in the wrong by him; if justification and reward come to you from him, expect also his arraignment and punishment. Alongside right goes wrong, alongside legality crime. What are you?—You are a—criminal!
+
+> I do not demand any right, therefore I need not recognize any either.
+
 ## Pierre-Joseph Proudhon
 
 Argues for mutualism, a socialist society where everyone worked voluntarily to the benefit of all
@@ -35,6 +47,12 @@ On the right to ignore the state
 > Suppose, again, that of two races living together—Celts and Saxons, for example—the most numerous determined to make the others their slaves. Would the authority of the greatest number be in such case valid?
 
 > Suppose, once more, that all men having incomes under £50 a year were to resolve upon reducing every income above that amount to their own standard, and appropriating the excess for public purposes. Could their resolution be justified?
+
+## Josiah Warren
+
+> Every individual would have been “Free” to entertain any theory of government whatever for himself or herself, and to test it by experiment within equitable limits; an issue would be raised only where this sacred right was denied, or against any who should have undertaken to enforce any theory of government whatever upon any individual against his or her “consent.”
+
+> Government, strictly and scientifically speaking is a coercive force; a man, while governed with his own consent, is not governed at all.
 
 ## Mikhail Bakunin
 
@@ -64,9 +82,25 @@ On communism without the state. Anarcho-communism.
 
 ## Lysander Spooner
 
+Dissecting the sanctity of the constitution.
+
+> Those persons, if any, who did give their consent formally, are all dead now. Most of them have been dead forty, fifty, sixty, or seventy years. And the Constitution, so far as it was their contract, died with them.
+
 > As taxation is made compulsory on all, whether they vote or not, a large proportion of those who vote, no doubt do so to prevent their own money being used against themselves; when, in fact, they would have gladly abstained from voting
 
 > The highwayman takes solely upon himself the responsibility, danger, and crime of his own act. He does not pretend that he has any rightful claim to your money, or that he intends to use it for your own benefit. He does not pretend to be anything but a robber.
+
+> It is with government, as Caesar said it was in war, that money and soldiers mutually supported each other; that with money he could hire soldiers, and with soldiers extort money. So these villains, who call themselves governments, well understand that their power rests primarily upon money.
+
+> every man who puts money into the hands of a “government” (so called), puts into its hands a sword which will be used against himself, to extort more money from him, and also to keep him in subjection to its arbitrary will.
+
+> The very judges, who profess to derive all their authority from the Constitution—from an instrument that nobody ever signed—would spurn any other instrument, not signed, that should be brought before them for adjudication.
+
+> They say they are only our servants, agents, attorneys, and representatives. But this declaration involves an absurdity, a contradiction. No man can be my servant, agent, attorney, or representative, and be, at the same time, uncontrollable by me, and irresponsible to me for his acts.
+
+> What is the motive to the secret ballot? This, and only this: Like other confederates in crime, those who use it are not friends, but enemies; and they are afraid to be known, and to have their individual doings known, even to each other. They can contrive to bring about a sufficient understanding to enable them to act in concert against other persons; but beyond this they have no confidence, and no friendship, among themselves. In fact, they are engaged quite as much in schemes for plundering each other, as in plundering those who are not of them.
+
+> And the men who loan money to governments, so called, for the purpose of enabling the latter to rob, enslave, and murder their people, are among the greatest villains that the world has ever seen.
 
 ## Johann Most
 
