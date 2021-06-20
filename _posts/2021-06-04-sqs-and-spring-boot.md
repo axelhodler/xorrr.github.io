@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cross-account SQS access with Spring Boot"
+title: "Cross-account SQS access with Spring Boot and CDK"
 date:   2021-06-04 8:22:21
 description: ""
 tags: []
