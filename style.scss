@@ -18,6 +18,36 @@ body {
   margin-right: 0.5rem;
 }
 
+.image__pair {
+  margin: 30px 0 30px 0;
+  height: 533px;
+}
+
+.image__ios {
+  width: 300px;
+
+  &-left {
+    float: left;
+  }
+
+  &-right {
+    float: right;
+  }
+
+  @media handheld {
+    width: 150px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .image__ios {
+    width: 150px;
+  }
+  .image__pair {
+    height: 267px;
+  }
+}
+
 html {
   font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
