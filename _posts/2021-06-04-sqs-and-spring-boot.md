@@ -19,7 +19,7 @@ const externalQueue = sqs.Queue.fromQueueArn(this, 'ExternalQueue',
     'arn:aws:sqs:eu-central-1:123456789101:ExternalQueueName')
 {% endhighlight %}
 
-To queues, one in our account one in another account. We need an IAM role allowed to access both queues.
+Two queues, one in our account one in another account. We need an IAM role allowed to access both queues.
 
 If we are using ECS Fargate the role is the `taskRole` of our task definition.
 
