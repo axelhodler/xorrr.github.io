@@ -8,11 +8,11 @@ tags: []
 
 At my first _real_ job, back in 2014, we were using the version control system svn for the backend. The mainline branch - think master or main in git terms - was called `trunk`.
 
-Every developed pushed changes straight to mainline (`trunk`). There was no code review before adding changes to mainline. Me, having worked with git previously - in fact most projects in the company where using git already - thought this was subpar. Almost awful. Not the way things are done in modern software development.
+Every developer pushed changes straight to mainline (`trunk`). There was no code review before adding changes to mainline. Me, having worked with git previously - in fact most projects in the company where using git already - thought this was subpar. Almost awful. Not the way things are done in modern software development.
 
-Later someone was added to the team in charge to moving us to continuous delivery. When discussing branching strategies yours truly, being an avid reader of [hackernews](https://news.ycombinator.com/) and all things development related, was eager to push for Gitflow.
+Later someone was added to the team in charge of moving us to continuous delivery. When discussing branching strategies yours truly, being an avid reader of [hackernews](https://news.ycombinator.com/) and all things development related, was eager to push for Gitflow.
 
-What I got back was
+The response I got back was
 
 > Yeah, but thats not really continuous delivery
 
