@@ -3,8 +3,6 @@ My page at
 
 ## Setup macOS
 
-    brew install rbenv tidy-html5 aspell
-    gem install bundler
     bundle install
 
 ## Setup Fedora
