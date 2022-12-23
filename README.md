@@ -3,7 +3,7 @@ My page at
 
 ## Setup macOS
 
-    bundle install
+    bundle install # gem install if fails
 
 ## Setup Fedora
 
